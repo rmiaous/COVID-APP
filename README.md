@@ -1,1 +1,1 @@
-# COVID-APP
+# COVID-Dashboard-2
